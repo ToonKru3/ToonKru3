@@ -1,9 +1,8 @@
 ### Hi Guys My name's Toon 👋
 - 🔭 I’m currently working on WebGL visualize on Threejs , mediapipe Holistic & Pose
-- 🌱 I’m currently learning about all mathmatics and aerospace
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning about all mathmatics , aerospace , Visualization , Webgl , WebGPU , Photograph
 - 📫 How to reach me:  supadett.pins@gmail.com
+- 🏢 How to hire me: https://www.upwork.com/freelancers/supadettp?viewMode=1 
 
 
 <!--
