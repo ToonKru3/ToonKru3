@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on WebGL visualize on Threejs , mediapipe Holistic & Pose
 - 🌱 I’m currently learning about all mathmatics , aerospace , Visualization , Webgl , WebGPU , Photograph
 - 📫 How to reach me:  supadett.pins@gmail.com
-- 🏢 How to hire me: https://www.upwork.com/freelancers/supadettp?viewMode=1 
+- 🏢 How to hire me: https://x.com/ToonKru3
 
 
 <!--
